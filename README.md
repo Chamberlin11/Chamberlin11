@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 - 🔭 I’m currently working for Brooklyn Data, we're a modern data stack consultancy
-- 🌱 I’m always working on improving my SQL skills, and learning Python/Jinja
+- 🌱 My core skillset is centered around SQL and I'm actively working on gaining more experience with Python
 - ⚡ Fun fact: I'm facinated with smart home tech! Love seeing unique DIY automations, you name it!
