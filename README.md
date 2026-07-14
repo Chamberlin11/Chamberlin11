@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 - 🔭 I’m currently working for Brooklyn Data, we're a modern data stack consultancy
-- 🌱 My core skillset is centered around SQL and I'm actively working on gaining more experience with Python
+- 🌱 My core skillset is centered around SQL/Python and related tools (e.g. dbt)
 - ⚡ Fun fact: I'm facinated with smart home tech! Love seeing unique DIY automations, you name it!
